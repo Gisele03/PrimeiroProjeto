@@ -1,0 +1,11 @@
+{
+    "produtos": [
+        {
+            "img": "../../assets/arroz.webp",
+            "nome": "Arroz",
+            "descricao": "Arroz",
+            "id": 1,
+            "valor":15
+        }
+    ]
+}
